@@ -1,9 +1,9 @@
 <div align="center">
 <!-- ============ HERO ============ -->
-<img src="./github-hero-banner.svg" width="100%" alt="Workday Financial Systems Analyst">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=260&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Workday%20Financial%20Systems%20Analyst&descSize=20&descAlignY=58&descColor=8b949e" width="100%"/ width="100%" alt="Workday Financial Systems Analyst">
 <!-- ============ ANIMATED TYPING HEADER ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&random=false&width=650&lines=Workday+Financial+Systems+Analyst;Financials+%7C+Adaptive+Planning+%7C+Integrations;Turning+Business+Requirements+into+Scalable+Systems;4%2B+Years+Driving+ERP+Excellence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&random=false&width=650&lines=Workday+Financial+Systems+Analyst;Financials+%7C+Adaptive+Planning+%7C+Integrations;Turning+Business+Requirements+into+Scalable+Systems;4%2B+Years+Driving+ERP+Excellence" alt="Typing SVG" />
 </a>
 <br/>
 <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=workday&logoColor=white" height="28"/> 
