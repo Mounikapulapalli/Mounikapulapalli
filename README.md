@@ -14,7 +14,6 @@
 <!-- ============ PROFESSIONAL INTRODUCTION ============ -->
 <div align="center">
 "Systems thinking meets financial precision."
-<sub>I design, configure, and optimize enterprise financial systems that businesses run on — quietly, reliably, at scale.</sub>
 </div>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=100%" />
