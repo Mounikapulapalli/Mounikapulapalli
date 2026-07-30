@@ -1,9 +1,6 @@
 <div align="center">
 <!-- ============ HERO ============ -->
  <img src="./banner.svg" width="100%" alt="Enterprise Financial Systems Analyst">
-![Followers](https://img.shields.io/github/followers/mounikapulapalli?label=Followers&style=for-the-badge&color=0969DA&logo=github&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=mounikapulapalli&label=Profile+Views&style=for-the-badge&color=0969DA)
-![Stars](https://img.shields.io/github/stars/mounikapulapalli?label=Stars&style=for-the-badge&color=DAA520&logo=github&logoColor=white)
 <!-- ============ ANIMATED TYPING HEADER ============ -->
 <a href="#">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&random=false&width=650&lines=Workday+Financial+Systems+Analyst;Financials+%7C+Adaptive+Planning+%7C+Integrations;Turning+Business+Requirements+into+Scalable+Systems;4%2B+Years+Driving+ERP+Excellence" alt="Typing SVG" />
