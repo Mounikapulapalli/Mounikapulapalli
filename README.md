@@ -19,13 +19,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=100%" />
 <br/>
 <!-- ============ ABOUT ME ============ -->
-<img src="https://img.shields.io/badge/-01-0d1117?style=flat-square&labelColor=0d1117" height="20"/> About Me
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-I'm a Workday Financial Systems Analyst with 4+ years of experience architecting and optimizing financial ecosystems for enterprise organizations. My work sits at the intersection of finance, systems engineering, and process design — translating complex business requirements into clean, scalable Workday configurations.
-I care about precision, auditability, and elegant system design — the same way a good engineer cares about clean code.
-</td>
+<img src="./about-me-section.svg" width="100%" alt="About Me">
+
 <td width="40%" valign="top">
 ```yaml
 role: Financial Systems Analyst
