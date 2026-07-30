@@ -19,7 +19,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&width=100%" />
 <br/>
 <!-- ============ ABOUT ME ============ -->
-<img src="./about-me-section.svg" width="100%" alt="About Me">
+<img src="./about-me.svg" width="100%" alt="About Me">
 
 <td width="40%" valign="top">
 ```yaml
