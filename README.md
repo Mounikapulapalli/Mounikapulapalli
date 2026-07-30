@@ -1,6 +1,6 @@
 <div align="center">
 <!-- ============ HERO ============ -->
- <img src="./github-hero-banner.svg" width="100%" alt="Enterprise Financial Systems Analyst">
+ <img src="./github-hero-banner (2)svg" width="100%" alt="Enterprise Financial Systems Analyst">
 <!-- ============ ANIMATED TYPING HEADER ============ -->
 <a href="#">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&random=false&width=650&lines=Workday+Financial+Systems+Analyst;Financials+%7C+Adaptive+Planning+%7C+Integrations;Turning+Business+Requirements+into+Scalable+Systems;4%2B+Years+Driving+ERP+Excellence" alt="Typing SVG" />
